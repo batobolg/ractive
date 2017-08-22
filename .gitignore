@@ -4,22 +4,12 @@
 # Dependencies
 node_modules/
 
-# Debugging directory
-sandbox/*
-!sandbox/index.html
-
-# Gobble directories
+# Build directories
 .gobble
 .gobble-build
 .gobble-watch
 .build
 .publish
-build
-tmp
-
-# Performance tests
-perf/control/*
-!perf/control/.empty
 
 # Log files
 *.log
