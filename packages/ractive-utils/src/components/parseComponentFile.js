@@ -1,3 +1,5 @@
+// Parses a component file into its parts
+
 import { match } from 'tippex';
 import { Ractive } from './init.js';
 import getName from './getName.js';

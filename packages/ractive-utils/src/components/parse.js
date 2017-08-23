@@ -1,3 +1,6 @@
+// An offline version if Ractive.parse
+
+
 /* eslint-env node */
 const { reducePromiseFunctions, Ractive } = require( './util' ).Ractive;
 
